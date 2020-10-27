@@ -13,7 +13,7 @@ using the methods presents here.
 
 To use this library you need to set up the PLC FX5 to receive this data:
 
-<img src="D:\GenesisDev\002_Programas\PLC Connect\image\Step1.png" style="zoom:50%;" />
+<img src="https://github.com/ebarretodev/mitsubishifx5/blob/master/image/Step1.png" style="zoom:50%;" />
 
 1. In **Navigation tab > Parameter > FX5UCPU > Module Parameter > Ethernet Port**
 
@@ -23,7 +23,7 @@ To use this library you need to set up the PLC FX5 to receive this data:
 
    
 
-![](D:\GenesisDev\002_Programas\PLC Connect\image\Step2.png)
+![](https://github.com/ebarretodev/mitsubishifx5/blob/master/image/Step2.png)
 
 4. Add a new **SLMP Connection Module**
 5. Confirm the use for **TCP Protocol**
